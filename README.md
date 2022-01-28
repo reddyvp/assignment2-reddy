@@ -6,7 +6,7 @@ This restaurant is owned by an Indian and is located in **Chicago, IL**.
 
 ***
 
-# Airport to HyderabadHouse
+### Airport to HyderabadHouse
 O'Hare is the international airport that is near to HyderabadHouse
 1. from airport take a cab to rosephalt
 2. from rosephalt take pace bus to schaumburg pace station 
