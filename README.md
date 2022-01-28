@@ -13,7 +13,4 @@ O'Hare is the international airport that is near to HyderabadHouse
 3. take a walk for 350 meters W to reach HyderabadHouse
 
 ***
-*chicken tikka masala
-*chicken butter masala
-*mutton sukka
-*appolo fish
+*chicken tikka masala   *chicj
