@@ -11,3 +11,5 @@ O'Hare is the international airport that is near to HyderabadHouse
 1. from airport take a cab to rosephalt
 2. from rosephalt take pace bus to schaumburg pace station 
 3. take a walt for 350 meters W to reach HyderabadHouse
+
+***
