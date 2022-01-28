@@ -4,7 +4,8 @@
 Near by the HyderabadHouse, many **Indians** reside, and many other **Indian restaurants** too.</br> 
 This restaurant is owned by an Indian and is located in **Chicago, IL**.
 
-***
+*** 
+
 ### Airport to HyderabadHouse
 O'Hare is the international airport that is near to HyderabadHouse
 1. from airport take a cab to rosephalt
@@ -12,3 +13,7 @@ O'Hare is the international airport that is near to HyderabadHouse
 3. take a walk for 350 meters W to reach HyderabadHouse
 
 ***
+*chicken tikka masala
+*chicken butter masala
+*mutton sukka
+*appolo fish
