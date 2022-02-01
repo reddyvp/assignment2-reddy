@@ -37,7 +37,7 @@ The food that must try by others :</br>
 ***
 
 ## Quotes
-> I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.</br>
+> ##### I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.</br>
                             -*Rabindranath Tagore*</br>
->To succeed in your mission, you must have single-minded devotion to your goal.</br>
-     -*A. P. J. Abdul KalamP
+>##### To succeed in your mission, you must have single-minded devotion to your goal.</br>
+     -*A. P. J. Abdul Kalam*
