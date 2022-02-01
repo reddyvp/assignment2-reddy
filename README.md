@@ -25,7 +25,7 @@ The food that must try by others :</br>
 
 ## Sports Activities
 
-The below table shows the sports which are located at various locations and the amount to be charged for participation.
+#### The below table shows the sports which are located at various locations and the amount to be charged for participation.
 
 | Name | Location | Amount |
 | --- | --- | --- |
