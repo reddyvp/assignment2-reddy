@@ -24,9 +24,9 @@ The food that must try by others :</br>
 ***
 
 ## Sports Activities
-| P | Q | P and Q |
+| Name | Location | Amount |
 | --- | --- | ---: |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
+| Badminton | Recreation center | 10 |
+| Cricket | Indore | 11 |
+| TableTennis | Colden Hall | 14 |
+| BasketBall | Valk Center | 15 |
