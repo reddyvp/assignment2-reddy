@@ -24,8 +24,8 @@ The food that must try by others :</br>
 ***
 
 ## Sports Activities
-|  |  | |
-| --- | --- |
+| P | Q | P and Q |
+| --- | --- | ---: |
 | T | T | T |
 | T | F | F |
 | F | T | F |
