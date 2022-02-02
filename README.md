@@ -44,22 +44,25 @@ The food that must try by others:</br>
 >>   -*A. P. J. Abdul Kalam*</br>
 
 ***
+
 ### Code fencing
 
-> An ancient method which appeared about 200 BC in Pingala's Hindu classic Chandah-sutra (and now called left-to-right binary exponentiation) can be described as follows. First write the exponent 25 in binary: 11001. Remove the first binary digit leaving 1001 and then replace each remaining '1' with the pair of letters 'sx' and each '0' with the letter 's' to get: sx s s sx. Now interpret 's' to mean square, and 'x' to mean multiply by x, so we have:
+```
+> Depth-first search is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking. So the basic idea is to start from the root or any arbitrary node and mark the node and move to the adjacent unmarked node and continue this loop until there is no unmarked adjacent node. Then backtrack and check for other unmarked nodes and traverse them. Finally, print the nodes in the path. 
+[description]<https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/>
 
-square, multiply by x, square, square, square, multiply by x.
-[description](https://primes.utm.edu/glossary/page.php?sort=BinaryExponentiation)
+'''
+vector<vector<int>> adj; // graph represented as an adjacency list
+int n; // number of vertices
 
-'''</br>
-long long binpow(long long a, long long b) {</br>
-    if (b == 0)</br>
-        return 1;</br>
-    long long res = binpow(a, b / 2);</br>
-    if (b % 2)</br>
-        return res * res * a;</br>
-    else</br>
-        return res * res;</br>
+vector<bool> visited;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
 }</br>
-'''</br>
-[description](https://cp-algorithms.com/algebra/binary-exp.html)
+''' </br>
+[description]<https://cp-algorithms.com/graph/depth-first-search>
