@@ -51,15 +51,15 @@ square, multiply by x, square, square, square, multiply by x.
 
 '''
 
-long long binpow(long long a, long long b) {
-    if (b == 0)
-        return 1;
-    long long res = binpow(a, b / 2);
-    if (b % 2)
-        return res * res * a;
-    else
-        return res * res;
-}
+long long binpow(long long a, long long b) {</br>
+    if (b == 0)</br>
+        return 1;</br>
+    long long res = binpow(a, b / 2);</br>
+    if (b % 2)</br>
+        return res * res * a;</br>
+    else</br>
+        return res * res;</br>
+}</br>
 
 '''
 [description](https://cp-algorithms.com/algebra/binary-exp.html)
