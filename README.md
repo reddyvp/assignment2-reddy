@@ -43,6 +43,7 @@ The food that must try by others :</br>
      -*A. P. J. Abdul Kalam*
 
      ***
+### Code fencing
 
 > An ancient method which appeared about 200 BC in Pingala's Hindu classic Chandah-sutra (and now called left-to-right binary exponentiation) can be described as follows. First write the exponent 25 in binary: 11001. Remove the first binary digit leaving 1001 and then replace each remaining '1' with the pair of letters 'sx' and each '0' with the letter 's' to get: sx s s sx. Now interpret 's' to mean square, and 'x' to mean multiply by x, so we have:
 
