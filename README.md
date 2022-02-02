@@ -51,7 +51,7 @@ The food that must try by others:</br>
 square, multiply by x, square, square, square, multiply by x.
 [description](https://primes.utm.edu/glossary/page.php?sort=BinaryExponentiation)
 
-'''
+'''</br>
 long long binpow(long long a, long long b) {</br>
     if (b == 0)</br>
         return 1;</br>
@@ -61,5 +61,5 @@ long long binpow(long long a, long long b) {</br>
     else</br>
         return res * res;</br>
 }</br>
-'''
+'''</br>
 [description](https://cp-algorithms.com/algebra/binary-exp.html)
