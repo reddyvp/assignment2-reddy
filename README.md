@@ -13,7 +13,7 @@ O'Hare is the international airport that is near to HyderabadHouse
 3. take a walk for 350 meters W to reach HyderabadHouse
 
 ***
-The food that must try by others :</br>
+The food that must try by others:</br>
 *Chicken Tikka Masala
 
 *Chicken Butter Masala  
@@ -42,6 +42,7 @@ The food that must try by others :</br>
  
 > To succeed in your mission, you must have single-minded devotion to your goal.</br>
 >>   -*A. P. J. Abdul Kalam*</br>
+
 ***
 ### Code fencing
 
@@ -51,7 +52,6 @@ square, multiply by x, square, square, square, multiply by x.
 [description](https://primes.utm.edu/glossary/page.php?sort=BinaryExponentiation)
 
 '''
-
 long long binpow(long long a, long long b) {</br>
     if (b == 0)</br>
         return 1;</br>
@@ -61,6 +61,5 @@ long long binpow(long long a, long long b) {</br>
     else</br>
         return res * res;</br>
 }</br>
-
 '''
 [description](https://cp-algorithms.com/algebra/binary-exp.html)
